@@ -1,9 +1,10 @@
-#define echoPin 12 //Ultrasonik sensörün echo pini Arduino'nun 12.pinine
+﻿#define echoPin 12 //Ultrasonik sensörün echo pini Arduino'nun 12.pinine
 #define trigPin 13 //Ultrasonik sensörün trig pini Arduino'nun 13.pinine tanımlandı.
 #define motorA1 3
 #define motorA2 5
 #define motorB1 6
 #define motorB2 9
+
 
 int Hiz=150;
 
